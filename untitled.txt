@@ -21,6 +21,7 @@ To expand on this we will also be looking at life expectancy from two different 
 
 Lastly we will also be looking at how it is affected by the amount of money that has been invested into the healthcare system. Once again most of us naturally would assume that the countries that have invested less into their healthcare have the lower life expectancy for their population, creating a graph with a negative correlation. However, what does the data show, as they may be countries that invested heavily into their healthcare system to improve and develop it but still have a low life expectancy.
 
+Explain why I dropped 2020-2023 in the life expectancy data
 # Methodology
 
 To identify the Top 10 countries we will be talking the population and number of doctors per 1000 data found on gapminder to identify the countries that have the least amount of doctors. The population of the countries must be considered to ensure a fair comparison is made. For example if both Country A and B have 10,000 doctors but A has a population 1 million and B has 4 million. Which means from first impressions you would have thought, they were the same but when you bring population into the equation we can see that country B would higher in the ranking for least accessible healthcare system.
