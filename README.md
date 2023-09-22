@@ -107,3 +107,9 @@ Some more recommendation that can be made from my findings are list below:
 1) Understand how China a significantly large amount of Doctors whilst having a low amount of contribution from the government
 2) Investigate Why China and San Marino took a deep in life expectancy from 1995 to 2002
 3) Investigate how Japan has one of highest life expectancies with a low amount of Doctors compared to the rest.
+
+---
+# Citations and Special Mentions
+---
+Data Collected from Gapminder
+Thank you to Tim Book(GA Staff, Rowan Schaefer(GA Staff) and Piotr Jankowski(friend) for helping debug, simplify and understand
