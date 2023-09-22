@@ -9,7 +9,19 @@ The objective of this project, alongside identifing the above, we will also be l
 <br>
 1) Investigating how the money invested by the Government into healthcare correlates a countries position in the rankings
 2) Investigating how the Life Expectancy correlates with a countries position
+
 ---
+## Research
+
+Reading a news report posted by the Guardian in November 2022 (https://www.theguardian.com/doctors-without-borders/2022/nov/21/msf-doctors-without-borders-year-in-review), which was reviewing the location that Doctors without Borders major countries that they visited were:
+1) Ukraine - They were there from the start of the war, providing aid to the "war-wounded patients in emergency departments and operating theaters, ambulances and MSF’s medical referral train"
+2) Pakistan - Where they had "Record-breaking rainfall this year led to massive flooding in Pakistan, leaving more than 1,300 people dead and 12,700 others injured. "
+3) Nigeria - Helping provid aid, medicine and care to the malnutricated and less fortunate
+4) Afganistan - Checking for malnurtiment and providing other medical aid during "Food insecurity and political"
+
+The reason this information is important, as it shows that during this problems we be assuming, whilst not completely disgrading that some results may be skewed are not taking into consideration historial data of what the conditions were when the data was collected. For example the amount a governments spends on providing health one year maybe higher than the next if a significant event took place leading to additional healthcare being needed.
+ 
+
 ## Data Dictionary
 ---
 The data used within this project was extracted from gapminder, the original csv files can be found within the data folder but can also be found at the following website: https://www.gapminder.org/data/
@@ -111,5 +123,6 @@ Some more recommendation that can be made from my findings are list below:
 ---
 # Citations and Special Mentions
 ---
-Data Collected from Gapminder
-Thank you to Tim Book(GA Staff, Rowan Schaefer(GA Staff) and Piotr Jankowski(friend) for helping debug, simplify and understand
+Data Collected from Gapminder "https://www.gapminder.org/data/"
+Research and quotations from The Guardian "https://www.theguardian.com/doctors-without-borders/2022/nov/21/msf-doctors-without-borders-year-in-review"
+Thank you to Tim Book(GA Staff), Rowan Schaefer(GA Staff) and Piotr Jankowski(friend) for helping debug, simplify and understand
