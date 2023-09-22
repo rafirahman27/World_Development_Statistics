@@ -19,7 +19,7 @@ Reading a news report posted by the Guardian in November 2022 (https://www.thegu
 3) Nigeria - Helping provid aid, medicine and care to the malnutricated and less fortunate
 4) Afganistan - Checking for malnurtiment and providing other medical aid during "Food insecurity and political"
 
-The reason this information is important, as it shows that during this problems we be assuming, whilst not completely disgrading that some results may be skewed are not taking into consideration historial data of what the conditions were when the data was collected. For example the amount a governments spends on providing health one year maybe higher than the next if a significant event took place leading to additional healthcare being needed.
+The reason this information is important, as it shows that during this problems we be assuming, whilst not completely disgrading that some results may be skewed as we are not taking into consideration historial data of what the conditions were when the data was collected. For example the amount a governments spends on providing health one year maybe higher than the next if a significant event took place leading to additional healthcare being needed.
  
 
 ## Data Dictionary
